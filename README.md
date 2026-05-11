@@ -1,11 +1,1 @@
-# About me
-
-##
-
-- 🔭 I’m currently working on ... becoming a software engineer
-- 🌱 I’m currently learning ... repositories and libraries
-- 👯 I’m looking to collaborate on ... sports, supply chain, and economic projects
-- 🤔 I’m looking for help with ... jupyter notebooks
-- 💬 Ask me about ... classical antiquity
-- 📫 How to reach me: ... linkedin or github
-- ⚡ Fun fact: ... first case of swine flu in greece
+Senior supply chain and operations leader with 10+ years across Amazon, venture-backed ecommerce, public-company consumer goods, and regulated medical devices. Former Sr. Director of Global Supply Chain who has led $500M-scale operations, 23-warehouse networks, international logistics launches, working-capital optimization, and board-level planning models. Currently building IPTApp, a Python/SQL supply-chain control tower that connects ERP-derived demand, inventory, open orders, production, in-transit, allocation, SLA, and planning views into decision-ready workflows for planners and executives.
